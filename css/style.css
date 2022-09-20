@@ -1,17 +1,17 @@
-.body{
+body{
     font-family:'Verdana',Arial;
     margin-top:25px;
     margin-right:25px;
     margin-left:25px;
 }
 
-.h1{
+h1{
     font-size:48px;
     color:blue;
     padding:15px;
 }
 
-.h2{
+h2{
     font-size:32px;
 }
 
