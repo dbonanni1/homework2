@@ -1,8 +1,6 @@
 body{
-    font-family:'Verdana',Arial;
-    margin-top:25px;
-    margin-right:25px;
-    margin-left:25px;
+    font-family:Verdana,'Arial';
+    margin:25px 25px 0px;
 }
 
 h1{
@@ -23,16 +21,13 @@ p{
 
 img{
     width:350px;
-    border-style:dashed;
-    border-color:black;
-    border-width:10px;
+    border:10px dashed black;
 }
 
 div{
     min-height:100px;
     padding:20px;
-    border:3px;
-    border-color:white;
+    border:3px solid white;
 }
 
 div.red{
